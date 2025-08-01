@@ -1,0 +1,7 @@
+.task-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #A8E6CF, #D0F0C0);
+  color: #333; 
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
